@@ -1,0 +1,71 @@
+* {
+    font-family: Arial Narrow, Arial, sans-serif;
+    text-align: center;
+  }
+  body{
+      background-image: url("bg.jpg");
+  }
+  #head {
+    font-weight: bold;
+    
+  }
+  li a {
+    text-decoration: none;
+    color:white;
+    
+
+  }
+  li{
+      background-color:black;
+  }
+  
+
+  #nav ul {
+    list-style-type: none;
+    
+  }
+  ul li {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid black;
+    color: black;
+  }
+  li:hover {
+    background:green;
+    color: white;
+    cursor: pointer;
+  }
+  #search input[type="text"] {
+    width: 500px;
+    height: 25px;
+    border-radius: 12px;
+  }
+  #search {
+    margin-bottom: 20px;
+  }
+  #cake img {
+    border-radius: 25%;
+    height: 200px;
+    width: 230px;
+    padding: 10px;
+  }
+  #cupcake img {
+    border-radius: 25%;
+    height: 200px;
+    width: 230px;
+    padding: 10px;
+  }
+  #sweet img {
+    border-radius: 25%;
+    height: 200px;
+    width: 230px;
+    padding: 10px;
+  }
+  #dn img {
+    border-radius: 25%;
+    height: 200px;
+    width: 230px;
+    padding: 10px;
+  }
+  
